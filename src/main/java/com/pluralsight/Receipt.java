@@ -1,6 +1,6 @@
 package com.pluralsight;
 
-public class Reciept {
+public class Receipt {
     public static void main(String[] args) {
 
         String itemName = "Shampoo";
